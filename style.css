@@ -10,13 +10,17 @@ li{
     font-size:large;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman',sans-serif;
     float:right;
+    
 }
 li:hover{
-
 color:rgb(23, 23, 235);
 background-color: rgb(219, 210, 226);
 }
 
+
+
 ul{
     list-style: none;
+    position: fixed;
+    background-color: blanchedalmond;
     }
